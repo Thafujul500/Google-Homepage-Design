@@ -1,0 +1,52 @@
+/* Mobile Screen */
+
+@media (max-width:768px) {
+
+    section .main .search_box {
+        
+        margin-left: 100px;
+    }
+
+    section .main .search_box .search{
+        width: 78%;
+       
+        
+    }
+    section .main .search_box .icons{
+        width: 80%;
+
+
+    }
+
+    section .footer .row ul{
+        display: block;
+    }
+
+    section header ul li button{
+        background-color: tomato;
+
+    }
+      
+
+   
+    
+}
+
+
+
+/* Mobile Screen */
+
+@media (min-width:1024px){
+
+
+
+}
+
+/* Mobile Screen */
+
+@media (min-width:769px) and (max-width:1023px){
+   
+
+}
+
+
